@@ -1,4 +1,8 @@
 hello
 hi
 hehe
+<<<<<<< HEAD
 A
+=======
+B
+>>>>>>> 22e342f21de57a1a624ff2c602647b8daaa25025
